@@ -16,7 +16,7 @@ A simple Library Management System written in Java, following Test-Driven Develo
 - **View Available Books**: 
   Users can view a list of all available books in the library.
 
-  ## Installation
-  **Clone the repository:**
+## Installation
+**Clone the repository:**
    ```bash
    git clone https://github.com/HastiContractor/Library-Management-System.git
